@@ -9,6 +9,7 @@ This repo collects the patterns, instructions, and workflow helpers I find mysel
 | Folder | Contents |
 |---|---|
 | `claude-skills/` | Custom skill files for Claude and Claude Code |
+| `claude-md/` | CLAUDE.md template for persistent style and editing defaults |
 
 More will be added over time. The structure is designed to grow without a redesign.
 
