@@ -35,40 +35,14 @@ This repo is most useful for people who:
 
 A few rules guide what goes in:
 
-- **Public only** — no secrets, credentials, or private work context.
+- **Public** — no secrets, credentials, or private work context.
 - **Reusable first** — anything here should be useful beyond one narrow task.
 - **Small and modular** — simple tools are easier to combine and maintain.
-- **Practical over clever** — better workflows, not novelty.
+- **Practical** — better workflows
 
-## Structure
+## Contributing
 
-```text
-claude-toolkit/
-├── claude-skills/
-├── claude-md/
-├── prompts/
-├── templates/
-└── docs/
-```
-
-## How to use this repo
-
-Pick the parts that solve a real problem in your workflow:
-- install a skill,
-- copy a template,
-- adapt a pattern,
-- or use a prompt as a starting point.
-
-You do not need to use everything.
-
-## What this repo is not
-
-- a dump of random prompts,
-- a place for private instructions,
-- a replacement for judgment,
-- or a claim that Claude should always behave the same way in every context.
-
-The goal is better defaults, not rigid ones.
+Contributions are welcome. Open a PR with anything that fits the principles above — a skill, a template, a prompt pattern, or a workflow note. Keep it small, focused, and public-safe.
 
 ## Notes
 
