@@ -4,6 +4,8 @@ A public toolkit of reusable resources for working with Claude more effectively.
 
 This repo collects the patterns, instructions, and workflow helpers I find myself returning to. The goal is to have them in one place, structured and reusable, rather than scattered or retyped every session.
 
+> **Note:** This is built around my personal use of Claude and Claude Code. Many of the patterns here are not Claude-specific - they translate to other AI coding tools with small adjustments. For example, `CLAUDE.md` to `AGENTS.md` for tools that follow the emerging open-source agent convention.
+
 ## What is in this repo
 
 | Folder | Contents |
